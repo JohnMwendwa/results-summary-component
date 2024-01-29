@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/JohnMwendwa/results-summary-component](https://github.com/JohnMwendwa/results-summary-component/)
+- Live Site URL: [https://johnmwendwa.github.io/results-summary-component](https://johnmwendwa.github.io/results-summary-component)
 
 ## My process
 
